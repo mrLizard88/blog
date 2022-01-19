@@ -1,11 +1,12 @@
 h1 a,h2 a {
-    color: #ffffff;
+    color: black;
     font-size: 36pt;
     text-decoration: none;
+    background-color: #green;
 }
 
 body {
-background-color: #fff;
+background-color: #green;
 font-family: &#8218;Roboto&#8217;, sans-serif;
 font-size: 62.5%;
 }
